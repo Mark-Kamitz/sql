@@ -1,6 +1,7 @@
 
 
-# IMPORTANT: Import dump files into tables using this order:
+# IMPORTANT: 
+### Import dump files into tables using this order:
 
 * load_departments.dump
 
