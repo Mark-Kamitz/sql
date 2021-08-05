@@ -3,6 +3,7 @@
 # IMPORTANT: 
 ### Import dump files into tables using this order:
 
+
 * load_departments.dump
 
 * load_employees.dump
